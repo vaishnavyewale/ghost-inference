@@ -572,7 +572,9 @@ export default function Home() {
               I&apos;m interested in thoughtful engineering, collaborative
               projects, and opportunities to turn ideas into useful systems.
             </p>
-            <a className="button-primary contact-button" href="mailto:YOUR_EMAIL@example.com">
+            <a className="button-primary contact-button" 
+href="mailto:vaishnavyewale26@gmail.com"
+>
               <Mail size={17} /> Start a conversation <ArrowUpRight size={16} />
             </a>
           </div>

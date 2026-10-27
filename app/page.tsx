@@ -13,7 +13,6 @@ import {
   ChevronRight,
   Code2,
   Cpu,
-  GitHub,
   Layers3,
   Mail,
   Menu,
@@ -580,11 +579,17 @@ export default function Home() {
 
           <div className="contact-side">
             <div className="contact-side-label mono">FIND ME ELSEWHERE</div>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
-              <Code2 size={18} />
-              <span>GitHub <small>Code & experiments</small></span>
-              <ArrowUpRight size={16} />
-            </a>
+            
+<a
+  href="https://github.com/vaishnavyewale/ghost-inference"
+  target="_blank"
+  rel="noreferrer"
+>
+  <Code2 size={18} />
+  <span>GitHub <small>Code & experiments</small></span>
+  <ArrowUpRight size={16} />
+</a>
+
             
 <a
   href="https://www.linkedin.com/in/vaishnav-yewale-01216a3ba/"
